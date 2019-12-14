@@ -1,0 +1,9 @@
+pyqt4
+pymongo
+tesseract
+re
+numpy
+os
+opencv-python
+pdf2image
+pillow
